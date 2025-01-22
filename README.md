@@ -13,3 +13,5 @@ Run pip install -r requirements.txt to install the dependencies :
 pip install tkinter
 pip install json
 pip install ttkbootstrap
+
+Author: Jay Wonsuk Yang
